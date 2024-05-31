@@ -5,7 +5,12 @@ A web client for chatting with AI
 ```sh
 # Clone the project
 git clone https://github.com/JackyS0-0/ai-chat-client.git && cd ai-chat-client
+```
+```sh
 # Install dependencies
 npm install
+```
+```sh
 # Start project
 npm run dev
+```
