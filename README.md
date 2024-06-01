@@ -13,7 +13,8 @@ git clone https://github.com/JackyS0-0/ai-chat-client.git && cd ai-chat-client
 ```
 
 ### 2.Edit Apis.jsx to call AI apis 
-> default call openai chatgpt
+> Default call openai chatgpt
+
 ![Apis](images/apis.png)
 
 ### 3.Install dependencies
