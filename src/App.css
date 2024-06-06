@@ -28,8 +28,12 @@
   align-items: baseline;
 }
 
-.answer {
+.question{
   background-color: #444654;
+}
+
+.answer {
+  
 }
 
 .icon {
@@ -60,6 +64,7 @@
 }
 
 .userInput {
+  color: rgba(255, 255, 255, 0.87);
   overflow: hidden;
   font-size: 16px;
   padding: 0;

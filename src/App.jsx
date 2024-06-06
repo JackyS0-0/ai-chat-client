@@ -215,7 +215,7 @@ const App = () => {
                     return (
                       <React.Fragment key={i}>
                         {c.type === 'image_url' && <Image key={i} src={c.image_url.url} style={{ maxWidth: '500px', maxHeight: '500px' }} />}
-                        {c.type === 'text' && <TextArea key={i} style={{ minHeight: 0 }} className="userInput inputArea" variant="borderless" autoSize value={c.text} />}
+                        {c.type === 'text' && <TextArea key={i} style={{ minHeight: 0 }} className="userInput" variant="borderless" autoSize value={c.text} />}
                       </React.Fragment>
                     )
                   })}
